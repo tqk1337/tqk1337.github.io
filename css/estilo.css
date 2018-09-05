@@ -1,0 +1,10 @@
+.inicio{
+    background-image: url("../images/fundo.jpg");
+    background-size: cover;
+    background-position:bottom;
+}
+
+#conteudoinicio{
+    padding-top: 650px;
+    padding-bottom: 100px;
+}
